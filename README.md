@@ -11,8 +11,9 @@
 ByteDance Intelligent Creation
 
 <a href="https://bytedance.github.io/InfiniteYou"><img src="https://img.shields.io/static/v1?label=Project&message=Page&color=blue&logo=github-pages"></a> &ensp;
-<a href="https://arxiv.org/abs/2503.16418"><img src="https://img.shields.io/static/v1?label=Arxiv&message=InfiniteYou&color=darkred&logo=arxiv"></a> &ensp;
-<a href="https://arxiv.org/pdf/2503.16418"><img src="https://img.shields.io/static/v1?label=%F0%9F%93%96%20Paper&message=PDF&color=green"></a> &ensp;
+<a href="https://arxiv.org/abs/2503.16418"><img src="https://img.shields.io/static/v1?label=ArXiv&message=Paper&color=darkred&logo=arxiv"></a> &ensp;
+<a href="https://huggingface.co/ByteDance/InfiniteYou"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%96%20Released&message=Models&color=green"></a> &ensp;
+<a href="https://github.com/bytedance/ComfyUI_InfiniteYou"><img src="https://img.shields.io/static/v1?label=%E2%9A%99%EF%B8%8F%20ComfyUI&message=Node&color=purple"></a> &ensp;
 <a href="https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=Demo&color=orange"></a> &ensp;
 
 </div>
@@ -23,6 +24,8 @@ ByteDance Intelligent Creation
 
 
 ## 🔥 News
+
+- [04/2025] 🔥 The official [ComfyUI node](https://github.com/bytedance/ComfyUI_InfiniteYou) is released. Unofficial [ComfyUI contributions](https://github.com/bytedance/InfiniteYou#comfyui-nodes) are appreciated.
 
 - [04/2025] 🔥 Quantization and offloading [options](https://github.com/bytedance/InfiniteYou#memory-requirements) are provided to reduce the memory requirements for InfiniteYou-FLUX v1.0.
 
@@ -125,6 +128,17 @@ python app.py
 
 We appreciate the GPU grant from the Hugging Face team. 
 You can also try our [InfiniteYou-FLUX Hugging Face demo](https://huggingface.co/spaces/ByteDance/InfiniteYou-FLUX) online.
+
+### ComfyUI Nodes
+
+- **Official ComfyUI native node implementation**
+  - [bytedance/ComfyUI_InfiniteYou](https://github.com/bytedance/ComfyUI_InfiniteYou)
+
+- **Unofficial implementations**
+  - [ZenAI-Vietnam/ComfyUI_InfiniteYou](https://github.com/ZenAI-Vietnam/ComfyUI_InfiniteYou)
+  - [katalist-ai/ComfyUI-InfiniteYou](https://github.com/katalist-ai/ComfyUI-InfiniteYou)
+  - [niknah/ComfyUI-InfiniteYou](https://github.com/niknah/ComfyUI-InfiniteYou)
+  - [game4d/ComfyUI-BDsInfiniteYou](https://github.com/game4d/ComfyUI-BDsInfiniteYou)
 
 
 ## 🆚 Comparison with State-of-the-Art Relevant Methods
